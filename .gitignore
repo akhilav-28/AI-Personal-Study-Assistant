@@ -1,3 +1,4 @@
+
 # Python virtual environment
 venv/
 .venv/
@@ -21,3 +22,7 @@ Thumbs.db
 
 # Temporary files
 *.log
+*.tmp
+
+# Generated vector database
+data/chroma_db/
