@@ -10,6 +10,18 @@ Users can upload multiple PDF documents, ask questions about their study materia
 
 The application uses a Retrieval-Augmented Generation (RAG) pipeline to retrieve relevant information from uploaded documents before generating responses.
 
+## Live Demo
+
+Try the deployed application:
+
+https://ai-personal-study-assistant-iuqlhawkz6au2a3xxxqvah.streamlit.app/
+
+## Source Code
+
+GitHub Repository:
+
+https://github.com/akhilav-28/AI-Personal-Study-Assistant
+
 ## Key Features
 
 ### Document Management
