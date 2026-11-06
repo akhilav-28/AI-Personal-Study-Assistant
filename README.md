@@ -135,6 +135,23 @@ AI-Personal-Study-Assistant/
 |-- README.md
 ```
 
+## Application Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Document Management
+![Document Management](screenshots/document-management.png)
+
+### AI Question Answering
+![AI Question Answering](screenshots/question-answering.png)
+
+### PDF Summarization
+![PDF Summarization](screenshots/summarization.png)
+
+### Interactive Quiz
+![Interactive Quiz](screenshots/quiz.png)
+
 ## Installation and Setup
 
 ### Prerequisites
